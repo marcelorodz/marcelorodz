@@ -1,91 +1,122 @@
-# 👨‍💻 Marcelo Rodrigues
+<h1 align="center">👨‍💻 Marcelo Rodrigues</h1>
 
-Software Developer | System Analyst | Product Mindset
+<p align="center">
+  <b>Support Engineer | System Analyst | Product Mindset</b>
+</p>
 
-Welcome to my GitHub portfolio!  
-Here you’ll find projects focused on building scalable solutions, improving user experience, and solving real-world problems through code.
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcelo-nunes-rodrigues-0076411bb/" target="_blank">
+    🔗 Connect on LinkedIn
+  </a>
+</p>
 
----
+<p align="center">
+  Building scalable solutions, improving user experience, and solving real-world problems through code.
+</p>
 
-## 🚀 About Me
+<hr>
 
-I’m a developer with a strong background that goes beyond coding.
+<h2>🚀 About Me</h2>
 
-My journey started in technical support and evolved into product ownership and system analysis — which gave me a deep understanding of how software is actually used in real environments.
+<p>
+I’m a <b>Support Engineer</b> with a strong <b>development mindset</b> and experience that goes beyond coding.
+</p>
 
-Today, I combine:
-- 💻 Development skills
-- 📊 Product thinking
-- 🧩 Problem-solving mindset
+<p>
+My journey started in technical support and evolved into product ownership and system analysis — giving me a deep understanding of how software behaves in real-world environments.
+</p>
 
-To build solutions that are not only functional, but meaningful and efficient.
+<h3>💡 What I combine</h3>
 
----
+<ul>
+  <li>💻 Development skills</li>
+  <li>📊 Product thinking and implementation</li>
+  <li>⚙️ System implementation expertise</li>
+  <li>🤝 Understanding of software requirements and stakeholder needs</li>
+  <li>🔄 Experience with development workflows, internal projects, and agile ceremonies</li>
+  <li>🧩 Problem-solving mindset</li>
+</ul>
 
-## 🛠️ Tech Stack
+<p>
+I focus on building solutions that are not only functional, but <b>meaningful and efficient</b>.
+</p>
 
-- JavaScript (ES6+)
-- TypeScript
-- Node.js
-- GraphQL
-- HTML5
-- CSS3
+<hr>
 
----
+<h2>🛠️ Tech Stack</h2>
 
-## 💡 What I Bring
+<p>
+<span style="background:#1f2937;color:white;padding:6px 10px;border-radius:8px;margin:4px;">JavaScript</span>
+<span style="background:#1f2937;color:white;padding:6px 10px;border-radius:8px;margin:4px;">TypeScript</span>
+<span style="background:#1f2937;color:white;padding:6px 10px;border-radius:8px;margin:4px;">Node.js</span>
+<span style="background:#1f2937;color:white;padding:6px 10px;border-radius:8px;margin:4px;">GraphQL</span>
+<span style="background:#1f2937;color:white;padding:6px 10px;border-radius:8px;margin:4px;">HTML5</span>
+<span style="background:#1f2937;color:white;padding:6px 10px;border-radius:8px;margin:4px;">CSS3</span>
+<span style="background:#1f2937;color:white;padding:6px 10px;border-radius:8px;margin:4px;">REST APIs</span>
+</p>
 
-- Experience building and improving real production systems
-- Strong analytical thinking from System Analysis background
-- Product-oriented mindset (focus on user value, not just code)
-- Ability to translate business needs into technical solutions
-- Experience working closely with developers, UX, and stakeholders
+<hr>
 
----
+<h2>💡 What I Bring</h2>
 
-## 📌 Experience Highlights
+<ul>
+  <li>Experience building and improving real production systems</li>
+  <li>Strong analytical thinking from system analysis background</li>
+  <li>Product-oriented mindset (focus on user value)</li>
+  <li>Ability to translate business needs into technical solutions</li>
+  <li>Collaboration with developers, UX, and stakeholders</li>
+</ul>
 
-### 🧠 Product Owner / System Analyst
-- Worked on **6 mobile apps** and **2 client-server systems**
-- Defined and validated features before release
-- Collaborated directly with development teams on technical solutions
-- Improved internal development and deployment processes
-- Created SQL-based reports and data-driven solutions
+<hr>
 
-### 🛠️ Support & Implementation Background
-- Tier 3 technical support experience
-- Hands-on experience with real client environments
-- System implementation and user training
-- Troubleshooting complex issues across applications, services, and infrastructure
+<h2>📌 Experience Highlights</h2>
 
-👉 This background helps me write better code — because I understand real user pain points.
+<h3>🧠 Product Owner / System Analyst</h3>
 
----
+<ul>
+  <li>Worked on <b>6 mobile apps</b> and <b>2 on-premise client-server systems</b></li>
+  <li>Defined and validated features before release</li>
+  <li>Collaborated with development teams on technical solutions</li>
+  <li>Improved development and deployment processes</li>
+  <li>Built SQL reports and data-driven solutions</li>
+</ul>
 
-## 📂 Projects
+<h3>🛠️ Support & Implementation Background</h3>
 
-Here you’ll find projects focused on:
-- Web development
-- Automation tools
-- Problem-solving utilities
-- Real-world inspired applications
+<ul>
+  <li>Tier 3 technical support experience</li>
+  <li>Hands-on work with real client environments</li>
+  <li>System implementation and user training</li>
+  <li>Troubleshooting across applications, services, and infrastructure</li>
+</ul>
 
----
+<p>
+This background helps me write better code — because I understand real user pain points and know that code alone isn’t enough to deliver a valuable solution.
+</p>
 
-## 📈 Currently Learning
+<hr>
 
-- Advanced backend architecture
-- Performance optimization
-- Scalable system design
+<h2>📂 Projects</h2>
 
----
+<ul>
+  <li>🌐 Web development</li>
+  <li>⚙️ Automation tools</li>
+  <li>🧩 Problem-solving utilities</li>
+  <li>🚀 Real-world inspired applications</li>
+</ul>
 
-## 🌐 Connect with Me
+<hr>
 
-- LinkedIn: (coloque seu link aqui)
+<h2>📈 Currently Learning</h2>
 
----
+<ul>
+  <li>Advanced backend architecture</li>
+  <li>Performance optimization</li>
+  <li>Scalable system design</li>
+</ul>
 
-## ⚡ Fun Fact
+<hr>
 
-I don’t just build features — I think about **why they exist, who they help, and how they can be better**.
+<p align="center">
+  ⚡ <i>I don’t just build features — I think about why they exist, who they help, and how they can be better.</i>
+</p>

@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Marcelo Rodrigues</h1>
 
 <p align="center">
-  <b>Support Engineer | System Analyst | Product Mindset</b>
+  <b>Support Engineer SAP Central Business Configuration | System Analyst | Product Mindset</b>
 </p>
 
 <p align="center">

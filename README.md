@@ -99,10 +99,8 @@ This background helps me write better code — because I understand real user pa
 <h2>📂 Projects</h2>
 
 <ul>
-  <li>🌐 Web development</li>
-  <li>⚙️ Automation tools</li>
-  <li>🧩 Problem-solving utilities</li>
-  <li>🚀 Real-world inspired applications</li>
+  <li>🏢 Web development projects in SAP environments using ServiceNow and internal APIs to build valuable tools for internal stakeholders</li>
+  <li>🤖 Automation of specific routines to reduce manual effort and improve efficiency</li>
 </ul>
 
 <hr>
@@ -116,7 +114,3 @@ This background helps me write better code — because I understand real user pa
 </ul>
 
 <hr>
-
-<p align="center">
-  ⚡ <i>I don’t just build features — I think about why they exist, who they help, and how they can be better.</i>
-</p>

@@ -23,7 +23,7 @@ I’m a <b>Support Engineer</b> with a strong <b>development mindset</b> and exp
 </p>
 
 <p>
-My journey started in technical support and evolved into product ownership and system analysis — giving me a deep understanding of how software behaves in real-world environments.
+My journey started in technical support and evolved into product ownership and system analysis giving me a deep understanding of how software behaves in real-world environments.
 </p>
 
 <h3>💡 What I combine</h3>

@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Building scalable solutions, improving user experience, and solving real-world problems through code.
+  Helping worldwide customers and partners in SAP environment | Building scalable solutions, improving user experience, and solving real-world problems through code.
 </p>
 
 <hr>
